@@ -3,21 +3,21 @@
     {
       "name": "Heltec (unofficial)",
       "maintainer": "Rop",
-      "websiteURL": "https://github.com/ropg/heltec_boards",
+      "websiteURL": "https://github.com/ropg/board_experiments",
       "email": "rop@gonggri.jp",
       "help": {
-        "online": "https://github.com/ropg/heltec_boards"
+        "online": "https://github.com/ropg/board_experiments"
       },
       "platforms": [
         {
           "name": "Heltec (unofficial)",
           "architecture": "esp32",
-          "version": "1.1.2",
+          "version": "0.0.1",
           "category": "ESP32",
-          "url": "https://github.com/ropg/heltec_boards/archive/refs/tags/1.1.2.zip",
-          "archiveFileName": "heltec_boards-1.1.2.zip",
-          "checksum": "SHA-256:e0955fbabb05dcd9d56a5b0c4e765475486a34bf9083d1e26cd984059389d508",
-          "size": "81323783",
+          "url": "https://github.com/ropg/board_experiments/archive/refs/tags/0.0.1.zip",
+          "archiveFileName": "board_experiments-0.0.1.zip",
+          "checksum": "SHA-256:f08c32de9308df67f5474e4e8a0576c1c913db0d1d2f5935623de1d8046e1116",
+          "size": "252835193",
           "help": {
             "online": ""
           },
