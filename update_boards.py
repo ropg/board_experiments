@@ -2,7 +2,7 @@ import requests
 import hashlib
 import os
 
-repo = "heltec_boards"
+repo = "board_experiments"
 
 # Fetch release data to get the tag name
 response = requests.get(f"https://api.github.com/repos/ropg/{repo}/releases/latest")
