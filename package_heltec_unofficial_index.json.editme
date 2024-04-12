@@ -27,13 +27,15 @@
             },
             {
               "name": "Heltec Wireless Stick v3"
-            },
+            }
             {
               "name": "Heltec Wireless Stick Lite v3"
             }
-          ]
+          ],
+          "toolsDependencies": []
         }
-      ]
+      ],
+      "tools": []
     }
   ]
 }
